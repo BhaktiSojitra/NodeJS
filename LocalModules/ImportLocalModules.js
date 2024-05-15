@@ -1,0 +1,12 @@
+const check=require('./LocalModules.js');
+check.isOddEven(10);
+check.numCheck(-1);
+check.primeNum(10);
+check.armstrong(13);
+check.palindrome(121);
+check.numDigit(4444);
+check.factorial(5);
+check.sumDigit(12123);
+check.leapyear(2023);
+check.max2(10,20);
+check.max3(0,1,2);

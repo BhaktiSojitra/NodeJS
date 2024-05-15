@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "65c1e3ee50c5afb0953f9281"
+  },
+  "id": 1,
+  "name": "tina",
+  "rollno": 7053,
+  "SPI": 7,
+  "branch": "computer"
+},
+{
+  "_id": {
+    "$oid": "65c3287184e4a44e4820331c"
+  },
+  "id": 2,
+  "name": "aaa",
+  "rollno": 80,
+  "SPI": 8,
+  "branch": "civil"
+}]
